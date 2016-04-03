@@ -36,4 +36,4 @@ Use these methods in controllers:
 set the toaster options in **config/toastr.php** , available options => [toastr.js demo](http://codeseven.github.io/toastr/demo.html)
 
 ## Author
-ylj
+mostwin
