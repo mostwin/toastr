@@ -4,11 +4,11 @@
 
 ## Installation
 
-- Run `composer require ryan/toastr-for-laravel`
+- Run `composer require mostwin/toastr`
 
 
-- Add `Yuansir\Toastr\ToastrServiceProvider::class,` to  **providers** in *config/app.php*
-- Add `'Toastr' => Yuansir\Toastr\Facades\Toastr::class,` to **aliases** in *config/app.php*
+- Add `Mostwin\Toastr\ToastrServiceProvider::class,` to  **providers** in *config/app.php*
+- Add `'Toastr' => Mostwin\Toastr\Facades\Toastr::class,` to **aliases** in *config/app.php*
 - Run `php artisan vendor:publish`
 
 
