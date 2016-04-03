@@ -1,0 +1,16 @@
+{
+    "name": "mostwin/toastr-for-laravel",
+    "description": "toastr.js for laravel5",
+    "authors": [
+        {
+            "name": "杨立景",
+            "email": "1195877741@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mostwin\\Toastr\\": "src/"
+        }
+    }
+}
